@@ -5,5 +5,5 @@ Ahora, debemos crear una constante llamada EDAD_MINIMA y otra llamada EDAD_MAXIM
 a las cuales les asignaremos valores numéricos 18 y 99 respectivamente.
 */
 
-let EDAD_MINIMA = 18;
-let EDAD_MAXIMA = 99;
+const EDAD_MINIMA = 18;
+const EDAD_MAXIMA = 99;
