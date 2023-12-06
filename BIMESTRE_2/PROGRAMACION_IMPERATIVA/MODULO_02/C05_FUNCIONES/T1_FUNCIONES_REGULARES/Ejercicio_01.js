@@ -7,4 +7,4 @@ function ejemplo(){
     return "hola, soy una función";
 }
 
-ejemplo();
+console.log(ejemplo());
