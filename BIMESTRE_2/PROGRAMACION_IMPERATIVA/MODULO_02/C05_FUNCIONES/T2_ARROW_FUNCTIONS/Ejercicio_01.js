@@ -17,13 +17,13 @@ function mostrarNombre() {
 */
 
 // Función que devuelve el array [1, 2, 3, 4, 5]
-const dameCinco = () => [1, 2, 3, 4, 5];
+let dameCinco = () => [1, 2, 3, 4, 5];
 
 // Función que devuelve el resultado de multiplicar 123 por 2
-const multiplicarPorDos = () => 123 * 2;
+let multiplicarPorDos = () => 123 * 2;
 
 // Función que devuelve la cadena "Mi nombre es Hernán"
-const mostrarNombre = () => "Mi nombre es Hernán";
+let mostrarNombre = () => "Mi nombre es Hernán";
 
 // Ejemplos de uso
 console.log(dameCinco());
