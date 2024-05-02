@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif; /* Fuente moderna y legible */
+    display: flex;
+    justify-content: center; /* Centrar el contenido horizontalmente */
+    align-items: center; /* Centrar el contenido verticalmente */
+    height: 100vh; /* Altura completa de la pantalla */
+    margin: 0;
+    background-color: #f4f4f9; /* Color de fondo suave */
+}
+
+.container {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra sutil para el contenedor */
+    border-radius: 8px; /* Bordes redondeados */
+}
+
+input[type="text"] {
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    width: calc(100% - 24px); /* Anchura ajustada al padding */
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer; /* Cursor tipo puntero para indicar que es clickeable */
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+p {
+    margin-top: 20px;
+    color: #333;
+}
