@@ -1,0 +1,21 @@
+[2024-08-08 12:12:39] [INFO ] [Matematica:10] Se inicio la ejecucion del programa
+[2024-08-08 12:12:39] [INFO ] [CalculoMatematico:7] Se ingreso al Metodo que calcula la division
+[2024-08-08 12:12:39] [WARN ] [CalculoMatematico:9] Log -> No se pudo dividir por cero
+[2024-08-08 12:12:39] [ERROR] [Matematica:19] Se produjo un error al dividir por ceroNo se puede dividir un numero por cero
+[2024-08-08 12:14:59] [INFO ] [Matematica:11] Se inicio la ejecucion del programa
+[2024-08-08 12:14:59] [INFO ] [CalculoMatematico:7] Se ingreso al Metodo que calcula la division
+[2024-08-08 12:14:59] [WARN ] [CalculoMatematico:9] Log -> No se pudo dividir por cero
+[2024-08-08 12:14:59] [ERROR] [Matematica:20] Se produjo un error al dividir por ceroNo se puede dividir un numero por cero
+[2024-08-08 12:16:46] [INFO ] [Matematica:11] Se inicio la ejecucion del programa
+[2024-08-08 12:16:46] [INFO ] [Matematica:12] Ejecutando Primera Division
+[2024-08-08 12:16:46] [INFO ] [CalculoMatematico:7] Se ingreso al Metodo que calcula la division
+[2024-08-08 12:16:46] [WARN ] [CalculoMatematico:9] Log -> No se pudo dividir por cero
+[2024-08-08 12:16:46] [ERROR] [Matematica:22] Se produjo un error al dividir por ceroNo se puede dividir un numero por cero
+[2024-08-08 12:17:43] [INFO ] [Matematica:11] Se inicio la ejecucion del programa
+[2024-08-08 12:17:43] [INFO ] [Matematica:12] Ejecutando Primera Division
+[2024-08-08 12:17:43] [INFO ] [CalculoMatematico:7] Se ingreso al Metodo que calcula la division
+[2024-08-08 12:17:43] [WARN ] [CalculoMatematico:9] Log -> No se pudo dividir por cero
+[2024-08-08 12:17:43] [ERROR] [Matematica:18] Se produjo un error al dividir por ceroNo se puede dividir un numero por cero
+[2024-08-08 12:17:43] [INFO ] [Matematica:21] Ejecutando Segunda Division
+[2024-08-08 12:17:43] [INFO ] [CalculoMatematico:7] Se ingreso al Metodo que calcula la division
+[2024-08-08 12:17:43] [INFO ] [CalculoMatematico:13] Termino la Ejecucion del Metodo
