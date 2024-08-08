@@ -1,0 +1,11 @@
+[2024-08-08 13:17:17] [INFO ] [ListaPromedio:17] La longitud de la lista es mayor a 5
+[2024-08-08 13:17:17] [INFO ] [ListaPromedio:22] La longitud de la lista es mayor a 10
+[2024-08-08 13:17:17] [INFO ] [ListaPromedio:32] El promedio es : 75.0
+[2024-08-08 13:17:17] [INFO ] [ListaPromedio:33] El valor maximo es : 140
+[2024-08-08 13:17:17] [INFO ] [ListaPromedio:34] El valor minimo es : 10
+[2024-08-08 13:17:17] [INFO ] [ListaPromedio:17] La longitud de la lista es mayor a 5
+[2024-08-08 13:17:17] [INFO ] [ListaPromedio:32] El promedio es : 44.0
+[2024-08-08 13:17:17] [INFO ] [ListaPromedio:33] El valor maximo es : 77
+[2024-08-08 13:17:17] [INFO ] [ListaPromedio:34] El valor minimo es : 11
+[2024-08-08 13:17:17] [ERROR] [ListaPromedio:10] La lista NO tiene elementos
+[2024-08-08 13:17:17] [ERROR] [Test:35] Excepcion atrapada : La lista NO tiene elementos
