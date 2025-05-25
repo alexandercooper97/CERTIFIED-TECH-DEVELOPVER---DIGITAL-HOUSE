@@ -41,8 +41,8 @@ usuariojuego/
 
 | Herramienta      | Versión |
 |------------------|---------|
-| Java             | 17+     |
-| Spring Boot      | 3.2.x   |
+| Java             | 21+     |
+| Spring Boot      | 3.5.x   |
 | Gradle           | 8.x     |
 | JUnit 5          | ✅      |
 | Mockito          | ✅      |
@@ -85,8 +85,8 @@ build/reports/jacoco/test/html/index.html
 ### ✅ Resultado esperado:
 ![Coverage Report](https://i.imgur.com/q1ZNdZp.png)
 
-> 🎯 Clase `UsuarioJuego`: 100% de cobertura de líneas y métodos  
-> 🚫 Clase `Main` excluida del análisis para no afectar la métrica.
+> ✅ Tanto `UsuarioJuego` como `Main` están cubiertos por pruebas.  
+> 🎯 Cobertura del 100% garantizada si los tests cubren los flujos principales.
 
 ---
 
@@ -105,7 +105,7 @@ O directamente desde tu IDE: clic derecho en `Main` → `Run`.
 ## 📌 Consideraciones
 
 - ✅ Buen ejemplo para aprender testing, cobertura, Gradle y principios básicos OOP.
-- ❌ No incluye persistencia ni interfaz web (es un backend de consola).
+- 🧪 Se incluye prueba del método `main()` para asegurar ejecución correcta.
 - 🔒 Los setters están restringidos para mantener integridad en `puntaje` y `nivel`.
 
 ---
